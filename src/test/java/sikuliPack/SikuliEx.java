@@ -10,7 +10,7 @@ import org.sikuli.script.Screen;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SikuliEx {
-
+	//push from git repository
 	public static void main(String[] args) throws Throwable {
 		// TODO Auto-generated method stub
 		
