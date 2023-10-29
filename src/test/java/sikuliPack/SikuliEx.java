@@ -11,6 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SikuliEx {
 	//push from git repository
+	//push from eclipse
 	public static void main(String[] args) throws Throwable {
 		// TODO Auto-generated method stub
 		
